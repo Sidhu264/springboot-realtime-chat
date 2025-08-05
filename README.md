@@ -42,6 +42,7 @@ cd springboot-realtime-chat
 
 # Run the application
 ./mvnw spring-boot:run
+```
 
 Open in your browser
 http://localhost:8080/chat
