@@ -44,8 +44,14 @@ cd springboot-realtime-chat
 ./mvnw spring-boot:run
 ```
 
-Open in your browser
+### Open in your browser
 http://localhost:8080/chat
+
+
+### How to Use
+1. Enter your name in the input field.
+2. Type a message and click Send.
+3. Messages will appear live across all open browser sessions in real time.
 
 
 
