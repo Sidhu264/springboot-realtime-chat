@@ -48,9 +48,4 @@ http://localhost:8080/chat
 
 
 
-📌 How to Use
-Enter your name in the input field.
-Type a message and click Send.
-Messages will appear live across all open browser sessions in real time.
-
 
